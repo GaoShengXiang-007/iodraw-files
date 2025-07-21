@@ -116,8 +116,14 @@
         <mxCell id="kOnXTwuuszm0-C72993R-30" value="坯布入库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="920" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kOnXTwuuszm0-C72993R-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kOnXTwuuszm0-C72993R-32" target="kOnXTwuuszm0-C72993R-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kOnXTwuuszm0-C72993R-32" value="坯布出库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOnXTwuuszm0-C72993R-34" value="应收单据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
