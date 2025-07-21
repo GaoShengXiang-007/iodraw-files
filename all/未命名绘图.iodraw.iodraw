@@ -63,10 +63,8 @@
         <mxCell id="kOnXTwuuszm0-C72993R-2" value="采购合同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kOnXTwuuszm0-C72993R-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kOnXTwuuszm0-C72993R-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="540" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kOnXTwuuszm0-C72993R-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kOnXTwuuszm0-C72993R-6" target="kOnXTwuuszm0-C72993R-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kOnXTwuuszm0-C72993R-6" value="并轴计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
@@ -81,6 +79,9 @@
         </mxCell>
         <mxCell id="kOnXTwuuszm0-C72993R-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOnXTwuuszm0-C72993R-18" value="并轴宝报工" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
